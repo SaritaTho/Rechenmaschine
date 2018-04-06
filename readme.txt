@@ -68,3 +68,4 @@ Das soll es an dieser Stelle mit der Vorstellung einiger wichtiger Kommandos
 gewesen sein. Im Internet finden sich viele sehr gute Referenzen zu Git, z.B.
 http://de.gitready.com/, welche bei Problemen neben der eingebauten Hilfe
 immer nützlich sind.
+foo
